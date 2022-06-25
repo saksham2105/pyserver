@@ -9,3 +9,6 @@ A TCP/IP Based Http Web Server Framework to help developers creating dynamic Web
    for this user has to create .psp(python server pages) extension file and user expression language inside it
 4) User can customize server's configuration by creating config.json file in secured folder (config like PORT,HOST)
 5) Sheep Supports HTTP/1.1 Protocol,right now it supports only POST and GET requests   
+
+[![IMAGE ALT TEXT HERE](sample_screenshot.png)]
+
