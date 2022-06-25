@@ -1,0 +1,14 @@
+<!Doctype html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<title>App 1</title>
+</head>
+<body>
+<h1>Welcome to app1</h1>
+<h2>Fetching User</h2>
+${user.username}
+${user.password}
+</form>	
+</body>
+</html>

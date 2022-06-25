@@ -1,0 +1,15 @@
+{
+"Homepage":"index.html",
+"mappings":[
+{
+"path":"register",
+"resource":"com.app1.register",
+"isServlet":true
+},
+{
+"path":"fetch",
+"resource":"com.app1.fetch",
+"isServlet":true
+}
+]
+}

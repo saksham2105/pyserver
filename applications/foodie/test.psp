@@ -1,0 +1,12 @@
+<!Doctype html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+</head>
+<body>
+<h3>Test Employee Application</h3>
+Your Code <input type="text" name="code" value="${code}" placeholder="Enter Code"> <br/>
+Your Name <input type="text" name="name" value="${name}" placeholder="Enter Name"> <br/>
+Your Salary <input type="text" name="salary" value="${salary}" placeholder="Enter Salary"> <br/>
+</body>
+</html>

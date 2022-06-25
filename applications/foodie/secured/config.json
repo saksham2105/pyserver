@@ -1,0 +1,15 @@
+{
+"Homepage":"index.html",
+"mappings":[
+{
+"path":"rabbit",
+"resource":"com.foodie.rabbit",
+"isServlet":true
+},
+{
+"path":"lion",
+"resource":"com.foodie.lion",
+"isServlet":true
+}
+]
+}
